@@ -3,7 +3,7 @@
 
 | ชื่อ | รหัสนักศึกษา | หน้าที่ |
 |------|---------------|----------|
-| **นายแก้วเพ็ชรัตน์ สีสันต์ [JengCharat](https://github.com/JengCharat)** | 6633800029-9 | - สร้างโปรเจกต์และโครงสร้างฟังก์ชันเริ่มต้น<br>- เขียน Test Function |
+| **นายแก้วเพ็ชรัตน์ สีสันต์ [JengCharat](https://github.com/JengCharat)** | 663380029-9 | - สร้างโปรเจกต์และโครงสร้างฟังก์ชันเริ่มต้น<br>- เขียน Test Function |
 | **นายวิสิษฎ์ ศรีอดิศักดิ์[WisitSriadisak](https://github.com/WisitSriadisak)** | 663380234-8 | - Pull โปรเจกต์จาก Git<br>- เขียนอัลกอริทึม **Bubble Sort** |
 | **นางสาวดวงฤทัย อัปกาญจน์[Ginny421](https://github.com/Ginny421)** | 663380014-2 | - Pull โปรเจกต์จาก Git<br>- เขียนอัลกอริทึม **Quick Sort** |
 
