@@ -1,7 +1,16 @@
 def quick_sort(arr):
     print("quick sort")
-    result = arr
-    return arr
+    def _quick(data):            
+        if len(data) <= 1:
+            return data
+
+        pivot = data[0]
+        left = [x for x in data[1:] if x <= pivot]
+        right = [x for x in data[1:] if x > pivot]
+
+        return _quick(left) + [pivot] + _quick(right)
+
+    return _quick(arr)
 
 def bubble_sort(arr):
     print("bubble sort")
