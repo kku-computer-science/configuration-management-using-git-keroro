@@ -1,0 +1,7 @@
+ก่อนรันคำสั่ง ให้ถอยกลับไปยังโฟลเดอร์แม่ (parent directory) ของโปรเจกต์:
+
+cd ..
+
+จากนั้นจึงรัน:
+python3 -m unittest test.test_bubble
+python3 -m unittest test.test_quick
