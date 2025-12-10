@@ -5,8 +5,16 @@ def quick_sort(arr):
 
 def bubble_sort(arr):
     print("bubble sort")
-    result = arr
-    return arr
+    result = arr.copy()
+    n = len(result)
+
+    for i in range(n):
+        for j in range(0, n - i - 1):
+            if result[j] > result[j + 1]:
+                result[j], result[j + 1] = result[j + 1], result[j]
+
+    return result
+
 
 
 user_input = input("enter number(example: 5 6 4): ")
