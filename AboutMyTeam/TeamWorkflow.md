@@ -62,3 +62,8 @@ Commit & Push
 ตรวจสอบโค้ดของทุกคน
 แก้ Conflict (ถ้ามี)
 Merge เข้าสู่ main branch
+
+
+
+# Git commit graph
+![Alt text](../assets/chart.png)
